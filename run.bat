@@ -1,0 +1,1 @@
+java -classpath=./lib/sqlitejdbc-v056.jar;./classes AndroidContactsExtract
